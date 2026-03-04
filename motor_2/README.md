@@ -4,4 +4,4 @@
 
 # Level of theory
 - All ground-state equilibrium geometries and transition state structures were optimized with density functional theory using CAM-B3LYP/6-311G(d,p)/PCM(THF).
-- The minimum energy conical intersection (CI) was optimized with mixed-reference spin-flip time-dependent density functional theory using BHHLYP/def2-TZVP.
+
